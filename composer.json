@@ -1,0 +1,16 @@
+{
+    "name": "sayuz/absensi-qr",
+    "autoload": {
+        "psr-4": {
+            "sayuz\\AbsensiQr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sayuz"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^6.0"
+    }
+}
