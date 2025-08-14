@@ -1,9 +1,11 @@
 {
     "name": "sayuz/absensi-qr",
     "autoload": {
-        "psr-4": {
-            "sayuz\\AbsensiQr\\": "src/"
-        }
+       "classmap": [
+        "handler/",
+        "model/",
+        "database/"
+       ]
     },
     "authors": [
         {

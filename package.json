@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  },
+  "name": "absensi-qr",
+  "version": "1.0.0",
+  "description": "This project is made using laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azekami4341/absensi-qr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azekami4341/absensi-qr/issues"
+  },
+  "homepage": "https://github.com/azekami4341/absensi-qr#readme"
+}
